@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-  background: black
+  background: var(--grey-color);
 }
 
 .loader {
