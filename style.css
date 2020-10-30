@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-  background: rgba(0, 0, 0, 0.8);
+  background: radial-gradient(#000000, #000000);
 }
 
 .loader {
